@@ -10,3 +10,4 @@ Logistic Regression - Predicting regions based on spending habits.
 Random Forest - Employing an ensemble learning approach to classify regions.
 K-Nearest Neighbors (KNN) - Using proximity-based classification for region prediction.
 
+
