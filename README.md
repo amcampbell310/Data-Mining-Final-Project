@@ -6,8 +6,8 @@ This project was developed with the purpose of identifying customer spending hab
 
 This was done through three different classification models and then comparing the models with confusion matrices, and their accuracies.
 
-Logistic Regression - Predicting regions based on spending habits.
-Random Forest - Employing an ensemble learning approach to classify regions.
-K-Nearest Neighbors (KNN) - Using proximity-based classification for region prediction.
+	Logistic Regression - Predicting regions based on spending habits.
+	Random Forest - Employing an ensemble learning approach to classify regions.
+	K-Nearest Neighbors (KNN) - Using proximity-based classification for region prediction.
 
 
